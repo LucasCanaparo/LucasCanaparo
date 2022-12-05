@@ -1,6 +1,18 @@
 ### Hi there 👋
 I'm Full Stack Developer💻
 
+✔️ Lenguages and Tools:
+- JavaScript 
+- Sequelize
+- NodeJS
+- Express
+- React
+- Redux
+- HTML
+- CSS
+
+ 
+
 
 
 <!--
