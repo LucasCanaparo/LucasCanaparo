@@ -11,6 +11,9 @@ I'm Full Stack Developer💻
 - HTML
 - CSS
 
+📌 How to reach me: <br/>
+📧 Mail: lucascanaparo@gmail.com <br/>
+🤝 Linkedin: www.linkedin.com/in/lucas-canaparo
  
 
 
