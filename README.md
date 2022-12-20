@@ -29,6 +29,14 @@ I leave the link to the repo so you can see it: https://github.com/LucasCanaparo
 <br/>
 <br/>
 
+### urLearning 📚 <br/>
+Henry's bootcamp group project. Web page dedicated to the creation and distribution of courses, free or paid, available to all users.
+Using technologies like JavaScript, React, Redux, SQL, Sequelize, Express, HTML, CSS and others like Cloudinary (for the videos), Nodemailer(Emails), Firebase and  Stripe. 
+I leave the link to the deploy, we use Vercel and Render: https://lnkd.in/eN8XJheG
+Also, a short video showing the project: https://lnkd.in/eC7sRKP4
+<br/>
+<br/>
+
 📌 How to reach me: <br/>
 📧 Mail: lucascanaparo@gmail.com <br/>
 🤝 Linkedin: www.linkedin.com/in/lucas-canaparo
