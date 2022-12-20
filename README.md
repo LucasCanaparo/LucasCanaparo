@@ -21,6 +21,7 @@ of online courses as part of a bootcamp programming.
 👨‍🎓 My projects: 
 <br/>
 <br/>
+
 ### Videogames Center 🕹️ <br/>
 My individual project from Henry's bootcamp, where I apply the knowledge given in it using JavaScript as the language and technologies such as React, Redux, SQL, Express, NodeJS, HTML and CSS among others.
 It was a feat of time, discipline and organization that after 3 arduous weeks I managed to carry out. <br/>
@@ -30,9 +31,9 @@ I leave the link to the repo so you can see it: https://github.com/LucasCanaparo
 <br/>
 
 ### urLearning 📚 <br/>
-Henry's bootcamp group project. Web page dedicated to the creation and distribution of courses, free or paid, available to all users.
-Using technologies like JavaScript, React, Redux, SQL, Sequelize, Express, HTML, CSS and others like Cloudinary (for the videos), Nodemailer(Emails), Firebase and  Stripe. 
-I leave the link to the deploy, we use Vercel and Render: https://lnkd.in/eN8XJheG
+Henry's bootcamp group project. Web page dedicated to the creation and distribution of courses, free or paid, available to all users around the world.
+Using technologies like JavaScript, React, Redux, SQL, Sequelize, Express, HTML, CSS and others like Cloudinary (for the videos), Nodemailer(Emails), Firebase and  Stripe. <br/>
+I leave the link to the deploy, we use Vercel and Render: https://lnkd.in/eN8XJheG <br/>
 Also, a short video showing the project: https://lnkd.in/eC7sRKP4
 <br/>
 <br/>
