@@ -8,6 +8,7 @@ Be part of creatinga website dedicated to production, sale, purchase and distrib
 of online courses as part of a bootcamp programming.
 
 ✔️ Lenguages and Tools:
+- Python
 - JavaScript 
 - Sequelize
 - NodeJS
